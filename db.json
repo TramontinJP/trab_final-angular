@@ -1,0 +1,15 @@
+{
+  "funcionarios": [
+    {
+      "id": 1,
+      "nome": "aaaaaaaaaaa",
+      "endereco": "aaaaaa",
+      "cidade": "aaaaaa",
+      "dataAdmissao": "2000-01-01",
+      "cpf": "99999999999",
+      "cargo": "Chefe1111"
+    }
+  ],
+  "entrega": [],
+  "comanda": []
+}
